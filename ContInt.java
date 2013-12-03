@@ -31,7 +31,7 @@
       }
       public int sum(int a,int b){
     	  int res=a+b;
-		return res
+		return res;
       }
       
       //main method will be called first when program is executed
