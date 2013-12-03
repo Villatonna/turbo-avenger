@@ -34,6 +34,11 @@
 		return res;
       }
       
+      public String getRndName(){
+    	  String ret="Jaska Jokunen";
+    	  return ret;
+      }
+      
       //main method will be called first when program is executed
       public static void main(String args[]){
         /*
