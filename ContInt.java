@@ -39,6 +39,11 @@
     	  return ret;
       }
       
+      public double rndNum(){
+    	  double ret=Math.random();
+    	  return ret;
+      }
+      
       //main method will be called first when program is executed
       public static void main(String args[]){
         /*
