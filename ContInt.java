@@ -44,6 +44,11 @@
     	  return ret;
       }
       
+      public String getSome(){
+    	  String ret="Lorem Ipsum thingie";
+    	  return ret;
+      }
+      
       //main method will be called first when program is executed
       public static void main(String args[]){
         /*
