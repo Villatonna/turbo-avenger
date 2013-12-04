@@ -50,7 +50,7 @@
       }
       
       public String hello(){
-    	  String ret="hello world"
+    	  String ret="hello world";
     	  return ret;
       }
       
