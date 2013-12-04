@@ -49,6 +49,11 @@
     	  return ret;
       }
       
+      public String hello(){
+    	  String ret="hello world"
+    	  return ret;
+      }
+      
       //main method will be called first when program is executed
       public static void main(String args[]){
         /*
